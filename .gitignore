@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/ArchVizExplorer/Materials/Effects/MI_Holo_01_Inst.uasset
+Content/ArchVizExplorer/Materials/Effects/M_Holo_Inst1.uasset
+Content/ArchVizExplorer/Materials/Effects/M_Holo_Inst.uasset
+Content/ArchVizExplorer/Materials/Effects/M_Holo.uasset
+Content/BP_Surprizebox.uasset
+Content/Characters/coins/coins_sun1.uasset
+Content/Characters/coins/coins_sun2.uasset
+Content/ArchVizExplorer/Materials/MPC/Emissive_MPC.uasset
